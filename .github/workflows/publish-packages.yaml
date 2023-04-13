@@ -1,4 +1,4 @@
-name: Publish on pull request merged
+name: Publish on pull request
 
 on:
   pull_request:
